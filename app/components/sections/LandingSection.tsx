@@ -10,10 +10,10 @@ export default function LandingSection() {
           <div className="text-left space-y-8">
             {/* Header Group */}
             <div className="space-y-2">
-              <h1 className="text-2xl font-light text-foreground">
-                Hannah P Moran
+              <h1 className="font-tinos text-2xl font-light text-foreground tracking-tight">
+                Hannah Patricia Moran
               </h1>
-              <h2 className="text-base font-medium text-foreground font-tinos">
+              <h2 className="text-lg font-light text-muted-foreground">
                 Developer
               </h2>
             </div>
@@ -36,12 +36,12 @@ export default function LandingSection() {
             </div>
 
             {/* Contact */}
-            <p className="font-extralight text-sm text-muted-foreground/70 leading-relaxed max-w-2xl font-tinos">
+            <p className="font-extralight text-base text-muted-foreground/70 leading-relaxed max-w-2xl font-tinos">
               Feel free to contact me on{" "}
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-sm underline hover:no-underline transition-all duration-200 text-foreground/70"
+                className="text-base underline hover:no-underline transition-all duration-200 text-foreground/70"
                 href="https://www.linkedin.com/in/hannah-p-moran/"
               >
                 Linkedin

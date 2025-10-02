@@ -19,6 +19,7 @@
   html {
     font-family: "Geist", ui-sans-serif, system-ui, sans-serif;
     font-weight: 100;
+    letter-spacing: -0.025em;
   }
 }
 

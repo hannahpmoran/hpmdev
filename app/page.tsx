@@ -7,8 +7,8 @@ import ProjectsSection from './components/sections/ProjectsSection'
 import CVSection from './components/sections/CVSection'
 
 export const metadata: Metadata = {
-  title: 'Hannah P Moran', // Replace with your actual name
-  description: 'Hannah Moran\'s Portfolio', // Optional but recommended
+  title: 'Hannah Patricia Moran', // Replace with your actual name
+  description: 'Hannah Patricia Moran\'s Portfolio', // Optional but recommended
 }
 
 export default function Home() {
