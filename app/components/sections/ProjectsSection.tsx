@@ -4,7 +4,7 @@ export default function ProjectsSection() {
     {
       title: "DrawTeX",
       url: "https://www.drawtex.io/",
-      description: "DrawTeX is a LaTeX symbol recognizer.",
+      description: "DrawTeX is a LaTeX symbol recognizer",
     },
     {
       title: "Digital Arts and Humanities Capstone: Digital Portfolio",
