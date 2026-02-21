@@ -9,7 +9,8 @@ export default function ProjectsSection() {
     {
       title: "Digital Arts and Humanities Capstone: Digital Portfolio",
       url: "https://hannahpmoran.dgah.sites.carleton.edu/",
-      description: "Interactive web portfolio with motion design and 3D elements.",
+      description:
+        "Interactive web portfolio with motion design and 3D elements.",
     },
     {
       title: "Intercepted Radio Communication in World War II",
@@ -19,17 +20,20 @@ export default function ProjectsSection() {
     {
       title: "Gentrification in Atlanta: A Study of Bias in Data Visualization",
       url: "https://observablehq.com/d/70ad9ce8827add61",
-      description: "Data visualization exploring bias in gentrification narratives.",
+      description:
+        "Data visualization exploring bias in gentrification narratives.",
     },
   ];
 
   return (
-    <section id="projects" className="bg-background pb-20">
+    <section id="projects" className="bg-background pb-16">
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto">
           <div className="text-left space-y-8">
             {/* Section Title */}
-            <h1 className="text-lg font-light text-muted-foreground">Projects</h1>
+            <h1 className="text-lg font-light text-muted-foreground">
+              Projects
+            </h1>
 
             {/* Projects List */}
             <div className="space-y-6">
