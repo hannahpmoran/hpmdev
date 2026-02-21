@@ -32,7 +32,7 @@ export default function LandingSection() {
       className="min-h-[75vh] bg-background flex items-center justify-center "
     >
       {/* Page Layout for ENTIRE PAGE */}
-      <div className="container mx-auto max-w-3xl pt-10 pb-10 px-4">
+      <div className="container mx-auto max-w-3xl pt-8 md:pt-16 pb-10 px-4">
         {/* Landing Section */}
         <div className="text-left space-y-8">
           {/* Header */}
